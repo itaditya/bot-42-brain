@@ -1,0 +1,24 @@
+{
+  "name": "bot-42-brain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itaditya/bot-42-brain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itaditya/bot-42-brain/issues"
+  },
+  "homepage": "https://github.com/itaditya/bot-42-brain#readme",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "superagent": "^3.8.2"
+  }
+}
